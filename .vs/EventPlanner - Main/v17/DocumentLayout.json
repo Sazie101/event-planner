@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samue\\Desktop\\React Final\\EventPlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3120C100-ACE5-4C56-A965-0BD1C844AEC7}|Entities\\Entities.csproj|c:\\users\\samue\\desktop\\react final\\eventplanner\\entities\\models\\eventplannercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3120C100-ACE5-4C56-A965-0BD1C844AEC7}|Entities\\Entities.csproj|solutionrelative:entities\\models\\eventplannercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40FADA69-5D9E-458F-990F-0F8748A4162E}|EventPlanner\\EventPlanner - Main.csproj|c:\\users\\samue\\desktop\\react final\\eventplanner\\eventplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40FADA69-5D9E-458F-990F-0F8748A4162E}|EventPlanner\\EventPlanner - Main.csproj|solutionrelative:eventplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40FADA69-5D9E-458F-990F-0F8748A4162E}|EventPlanner\\EventPlanner - Main.csproj|c:\\users\\samue\\desktop\\react final\\eventplanner\\eventplanner\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40FADA69-5D9E-458F-990F-0F8748A4162E}|EventPlanner\\EventPlanner - Main.csproj|solutionrelative:eventplanner\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40FADA69-5D9E-458F-990F-0F8748A4162E}|EventPlanner\\EventPlanner - Main.csproj|c:\\users\\samue\\desktop\\react final\\eventplanner\\eventplanner\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40FADA69-5D9E-458F-990F-0F8748A4162E}|EventPlanner\\EventPlanner - Main.csproj|solutionrelative:eventplanner\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40FADA69-5D9E-458F-990F-0F8748A4162E}|EventPlanner\\EventPlanner - Main.csproj|c:\\users\\samue\\desktop\\react final\\eventplanner\\eventplanner\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40FADA69-5D9E-458F-990F-0F8748A4162E}|EventPlanner\\EventPlanner - Main.csproj|solutionrelative:eventplanner\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3120C100-ACE5-4C56-A965-0BD1C844AEC7}|Entities\\Entities.csproj|c:\\users\\samue\\desktop\\react final\\eventplanner\\entities\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3120C100-ACE5-4C56-A965-0BD1C844AEC7}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40FADA69-5D9E-458F-990F-0F8748A4162E}|EventPlanner\\EventPlanner - Main.csproj|c:\\users\\samue\\desktop\\react final\\eventplanner\\eventplanner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40FADA69-5D9E-458F-990F-0F8748A4162E}|EventPlanner\\EventPlanner - Main.csproj|solutionrelative:eventplanner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\React Final\\EventPlanner\\EventPlanner\\package.json",
+              "RelativeDocumentMoniker": "EventPlanner\\package.json",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\React Final\\EventPlanner\\EventPlanner\\package.json",
+              "RelativeToolTip": "EventPlanner\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T14:41:49.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\React Final\\EventPlanner\\Entities\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\React Final\\EventPlanner\\Entities\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "Entities\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:32:40.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\React Final\\EventPlanner\\EventPlanner\\appsettings.json",
+              "RelativeDocumentMoniker": "EventPlanner\\appsettings.json",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\React Final\\EventPlanner\\EventPlanner\\appsettings.json",
+              "RelativeToolTip": "EventPlanner\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T18:24:48.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventPlannerContext.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\React Final\\EventPlanner\\Entities\\Models\\EventPlannerContext.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\EventPlannerContext.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\React Final\\EventPlanner\\Entities\\Models\\EventPlannerContext.cs",
+              "RelativeToolTip": "Entities\\Models\\EventPlannerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:38:17.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\React Final\\EventPlanner\\EventPlanner\\Program.cs",
+              "RelativeDocumentMoniker": "EventPlanner\\Program.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\React Final\\EventPlanner\\EventPlanner\\Program.cs",
+              "RelativeToolTip": "EventPlanner\\Program.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAADwv4IAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:38:08.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\React Final\\EventPlanner\\EventPlanner\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EventPlanner\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\React Final\\EventPlanner\\EventPlanner\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EventPlanner\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwCwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:37:51.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\Desktop\\React Final\\EventPlanner\\EventPlanner\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "EventPlanner\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\samue\\Desktop\\React Final\\EventPlanner\\EventPlanner\\Controllers\\EventController.cs",
+              "RelativeToolTip": "EventPlanner\\Controllers\\EventController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:37:50.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
